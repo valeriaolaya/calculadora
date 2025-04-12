@@ -1,0 +1,27 @@
+input{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.nombre{
+    color: bisque;
+    border-radius: 10%;
+
+}
+
+.email{
+    color: bisque;
+    border-radius: 10%;
+}
+
+.contraseña{
+    color: bisque;
+    border-radius: 10%;
+}
+
+.textarea{
+    display: block;
+    margin: auto;
+    padding: 1%;
+}

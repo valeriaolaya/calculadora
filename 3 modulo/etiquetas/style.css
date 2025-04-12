@@ -1,0 +1,42 @@
+ 
+ body{
+background-color: rgb(208, 193, 223);
+text-align: center;
+ }
+ 
+ h1{
+color: rgb(15, 54, 163);
+ font-size:50px;
+}
+
+ h2{
+color: rgb(136, 27, 27);
+ }
+
+ h3{
+color: rgb(11, 97, 26);
+ }
+
+ h4{
+color: rgb(97, 10, 124);
+}
+
+h5{
+color: rgb(71, 41, 3);
+}
+
+h6{
+color: rgb(116, 134, 10);
+}
+
+.nombre{
+    color: rgb(51, 0, 99);
+    background-color: rgb(117, 46, 111);
+    width: 200px;
+    height: 50px;
+    justify-self: center;
+}
+
+.name{
+    color: rgb(44, 129, 199);
+}

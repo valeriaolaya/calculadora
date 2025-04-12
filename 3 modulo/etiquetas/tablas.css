@@ -1,0 +1,17 @@
+table{
+    background-color: rgb(181, 131, 228);
+    border: solid  17px rgb(117, 53, 136);
+    width: 50%;
+}
+
+tr{
+    border: solid 2px rgb(65, 17, 104);
+}
+
+td{
+    border: solid dax rgb(79, 17, 104);
+}
+
+th{
+    border: solid 2px rgb(72, 17, 104);
+}

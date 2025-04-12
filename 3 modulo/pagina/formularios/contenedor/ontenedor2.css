@@ -1,0 +1,19 @@
+.contenedor{
+    background-color: rgb(214, 146, 211);
+    width: 50%;
+    color: rgb(216, 78, 221);
+}
+
+.contenedor2{
+    background-color: rgb(138, 75, 238);
+    width: 50%;
+    color: rgb(185, 135, 233);
+}
+
+body{
+    display: flex;
+
+}
+    
+
+    

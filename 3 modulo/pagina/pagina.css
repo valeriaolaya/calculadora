@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+    background-color: rgb(247, 237, 226);
+}
+
+.titulo{
+    font-size: 50px;
+    color: rgb(88, 51, 5);
+}
+
+.imagen{
+    width: 30%;
+    height: 60%;
+    border-radius: 50%; 
+}
+
+.texto{
+    font-size: 40px;
+    color: rgb(110, 68, 16);
+}
+    
+._blank{
+    font-size: 20px;
+    color: rgb(126, 73, 8);s
+}
+
+table{
+    background-color: bisque;
+    border: solid 17px  rgb(194, 101, 68) ;
+    width: 50%;
+}
+
+tr{
+    border: solid 2px  rgb(194, 101, 68) ;
+}
+
+td{
+    border: solid 2px  rgb(194, 101, 68) ;
+}
+
+th{
+    border: solid 2px  rgb(194, 101, 68) ;
+}
+ul{
+    list-style-type: none;
+    color: rgb(190, 135, 83);
+ }
+
+.nombre{
+    display: block
+}
+.email{
+    display: block 
+}
+.telefono{
+    display: block 
+}
+
+.enviar{
+    display: block
+    
+}
+
+label{
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.contenedor{
+    display: flex;
+    width: 100;
+}
+
+.contenedor1{
+    margin: 5px;
+    background-color: beige;
+    border-radius: 10%;
+    box-shadow: rgb(155, 117, 104);
+}
+
+.contenedor2{
+    margin: 5px;
+}
+
+.contenedor3{
+    margin: 5px;
+}
+
+.imagenes{
+    width: 100%;
+    
+}

@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(224, 209, 180);
+    color: rgb(14, 14, 39);
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+.parrafo{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+.imagen{
+    width: 20%;  
+    border:   80px;                      
+    border: solid;
+    border-color: aqua;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+.contenedor{
+    width: 20%;
+    background-color: rgb(226, 3, 208);
+
+}
+
+.principal{
+    display: flex;
+}
+
+.contenedor2 {
+    width: 20%;
+    background-color: rgb(63, 97, 97);
+
+}
+
+.contenedor2 .imagen{
+    border:   80px;
+    border: solid;
+    border-color: aqua;
+    border-radius: 10%;
+    padding: 10px;
+    margin: 10px;
+    width: 20%;
+    background-color: rgb(8, 64, 116);
+
+}
+
+.principal2{
+    display: flex;
+}
+
+
+.contenedor3{
+    width: 20%;
+    background-color: rgb(190, 126, 185);
+}
+
+.contenedor4{
+    width: 20%;
+    background-color: rgb(108, 69, 131);
+
+}
+
+.contenedor3 .imagen{
+    border:  80px;
+    border: solid;
+    border-color: rgb(184, 16, 199);
+    border-radius: 10%;
+    padding: 10px;
+    margin: 10px;
+    width: 20%;
+    background-color: rgb(97, 12, 71);
+
+}
+
+.contenedor4 .imagen{
+    border:  80px;
+    border: solid;
+    border-color: rgb(51, 4, 112);
+    border-radius: 10%;
+    padding: 10px;
+    margin: 10px;
+    width: 20%;
+    background-color: rgb(216, 124, 124);
+    
+}

@@ -1,0 +1,23 @@
+.inicio{
+    background-color: rgb(209, 113, 113);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.contactos{
+    background-color: rgb(168, 106, 226);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.servicios{
+    background-color: rgb(224, 109, 240);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+
+ 
